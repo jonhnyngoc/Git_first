@@ -1,0 +1,4 @@
+Host github.com-work_user2   
+   HostName github.com
+   User git
+   IdentityFile id_rsa_work_user2
